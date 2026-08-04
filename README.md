@@ -1,4 +1,4 @@
-# Tanaman RT 54
+# Tanaman RT 52
 
 Website statis informasi 20 tanaman untuk GitHub Pages.
 
